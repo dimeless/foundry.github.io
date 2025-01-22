@@ -21,7 +21,7 @@
 title: Genome Foundry
 description: The power of automation at the service of biology
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://concordiagenomefoundry.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://foundry.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #specify a directory to store all your collections in the same place (_drafts and _posts need to be in this directory too)
 collections_dir: my_collections
