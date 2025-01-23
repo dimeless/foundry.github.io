@@ -1,8 +1,8 @@
-# vincentm:
-#   name: Vincent Martin
-#   jobtitle: Director
-#   image: assets\images\team\VincentMartin.png
-#   linkedin: https://www.linkedin.com/in/vincent-martin-233487158
+vincentm:
+  name: Vincent Martin
+  jobtitle: Director
+  image: assets\images\team\VincentMartin.png
+  linkedin: https://www.linkedin.com/in/vincent-martin-233487158
 audreym:
   name: Audrey Morin
   jobtitle: Manager, Research Operations
